@@ -7,7 +7,8 @@ Native Android Developer | Kotlin
 I’m an interactive media designer with a strong passion for native android development using the Kotlin language, additionally, my knowledge as a UI/UX designer allows me to have clear communication with the designers in a multidisciplinary team.
 
 * 🌍  I'm based in Colombia
-* ✉️  You can contact me at [sokahdev@gmail.com](mailto:sokahdev@gmail.com)
+* ✉️  You can contact me at [camilojimenezdev@gmail.com](mailto:camilojimenezdev@gmail.com)
+*  🖥️  See my portfolio at [this link](http://sok4h.github.io/my-portfolio/)
 * 🧠  I'm learning Jetpack Compose
 
 ### Skills
