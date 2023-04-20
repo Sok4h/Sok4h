@@ -8,7 +8,7 @@ I’m an interactive media designer with a strong passion for native android dev
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [camilojimenezdev@gmail.com](mailto:camilojimenezdev@gmail.com)
-*  🖥️  See my portfolio at [this link](http://sok4h.github.io/my-portfolio/)
+*  🖥️  See my portfolio [here](http://sok4h.github.io/my-portfolio/)
 * 🧠  I'm learning Jetpack Compose
 
 ### Skills
@@ -23,7 +23,7 @@ I’m an interactive media designer with a strong passion for native android dev
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.net/mrsokaxd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sok4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/camilo-jimenez-f-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/Sok4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/camilo-jimenez-f-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
