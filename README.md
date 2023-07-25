@@ -4,12 +4,12 @@ Hi 👋 My name is  Camilo
 Native Android Developer | Kotlin
 ---------------------------------
 
-I’m an interactive media designer with a strong passion for native android development using the Kotlin language, additionally, my knowledge as a UI/UX designer allows me to have clear communication with the designers in a multidisciplinary team.
+Enthusiastic Android Developer with expertise in Jetpack Compose, MVVM, MVi, XML, Kotlin, Retrofit and more. Passionate about creating user-friendly apps with clean and efficient code. Eager to contribute and learn in a collaborative team environment.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [camilojimenezdev@gmail.com](mailto:camilojimenezdev@gmail.com)
 *  🖥️  See my portfolio [here](http://sok4h.github.io/my-portfolio/)
-* 🧠  I'm learning Jetpack Compose
+* 🧠  I'm learning FCM (Firebase Cloud Messaging)
 
 ### Skills
 
